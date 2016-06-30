@@ -8,7 +8,7 @@ Inspired by tylerc's ROG: https://github.com/tylerc/rog
 
 I saw a problem that tylerc's ROG had a ruby client, making it very difficult to distribute the game. So, my goal is to make a networked dungeon crawler with a Ruby/Sinatra server and a JavaScript client.
 
-Also sicne I'm not good with JavaScript game engines yet, I'm probably going to end up using EaselJS on the client-side. Also I'm still debating whether to use HTTP or Websockets.
+Also since I'm not good with JavaScript game engines yet, I'm probably going to end up using EaselJS on the client-side. Also I'm still debating whether to use HTTP or Websockets.
 
 ### Requirements
 
